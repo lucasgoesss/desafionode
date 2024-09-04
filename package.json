@@ -1,0 +1,25 @@
+{
+    "name": "movie-app",
+    "version": "1.0.0",
+    "description": "A Node.js application to manage movies with notes and tags.",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "dev": "nodemon app.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Lucas Goes",
+    "license": "ISC",
+    "dependencies": {
+      "bcrypt": "^5.1.0",
+      "express": "^4.18.2",
+      "joi": "^17.7.0",
+      "sequelize": "^6.32.1",
+      "sqlite3": "^5.1.6"
+    },
+    "devDependencies": {
+      "nodemon": "^3.0.1"
+    }
+  }
+  
