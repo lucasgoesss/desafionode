@@ -22,7 +22,7 @@ A Node.js application to manage movies with notes and tags. This project allows 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/movie-app.git
+   git clone [https://github.com/yourusername/movie-app.git](https://github.com/lucasgoesss/desafionode.git)
    cd movie-app
    ```
 
